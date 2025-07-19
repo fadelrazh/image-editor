@@ -1,5 +1,15 @@
 # Image Editor Pro
 
+[![GitHub stars](https://img.shields.io/github/stars/fadelrazh/image-editor?style=social)](https://github.com/fadelrazh/image-editor/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/fadelrazh/image-editor?style=social)](https://github.com/fadelrazh/image-editor/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/fadelrazh/image-editor)](https://github.com/fadelrazh/image-editor/issues)
+[![GitHub license](https://img.shields.io/github/license/fadelrazh/image-editor)](https://github.com/fadelrazh/image-editor/blob/master/LICENSE)
+[![Made with HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Made with CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Made with JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub last commit](https://img.shields.io/github/last-commit/fadelrazh/image-editor)](https://github.com/fadelrazh/image-editor/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/fadelrazh/image-editor)](https://github.com/fadelrazh/image-editor)
+
 A professional image editing web application built with HTML, CSS, and JavaScript. Edit your images directly in the browser with powerful tools and filters.
 
 ## 🎨 Features
